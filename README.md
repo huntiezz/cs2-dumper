@@ -52,6 +52,10 @@ Runtime summary log:
 
 - `dump.log` (written next to the executable)
 
+## Don't feel like dumping?
+
+View the already dumped offsets in the [output folder](https://github.com/huntiezz/cs2-dumper/tree/main/output)
+
 ## License
 
 Licensed under MIT. See [LICENSE](./LICENSE).
