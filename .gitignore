@@ -1,0 +1,17 @@
+bin/
+obj/
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ipch
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+dump.log
+cs2-dumper.log
