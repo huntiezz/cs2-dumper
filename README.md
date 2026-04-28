@@ -2,7 +2,7 @@
 
 External Counter-Strike 2 offset/interface/schema dumper written in modern C++.
 
-Inspiration from [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) — this project is essentially a C++ port.
+Inspiration from [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - this project is essentially a C++ port.
 
 ## Features
 
